@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Guilherme
 
-- 🌱 Estou estudando Node e React
 - 📫 Contate-me no e-mail: contato@guilhermecandidosantos.com.br
 
 <div align="center">
