@@ -28,8 +28,8 @@ Transformar dados e ideias em soluções práticas, eficientes e de impacto real
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?guilhermecandidosantos&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?guilhermecandidosantos&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermecandidosantos&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecandidosantos&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 ---
