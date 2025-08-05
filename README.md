@@ -36,7 +36,7 @@ Transformar dados e ideias em soluções práticas, eficientes e de impacto real
 
 ## 📫 Como me encontrar
 
-- 💼 LinkedIn: [https://linkedin.com/in/seu-usuario](https://linkedin.com/in/guilhermecandidosantos)  
+- 💼 LinkedIn: [https://linkedin.com/in/guilhermecandidosantos](https://linkedin.com/in/guilhermecandidosantos)  
 
 ---
 
